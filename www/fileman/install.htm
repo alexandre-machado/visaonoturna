@@ -1,0 +1,71 @@
+<head>
+<title>FileMan Install</title>
+</head>
+<body>
+
+<font face="tahoma,Arial" size="2" color=222222>
+
+<center><h3>FileMan Installation</h3></center>
+
+<dir>
+Always refer to the <a href=http://www.iisworks.com/fileman>FileMan site</a> for the latest information! Read the FAQ for important recommendations and common questions.<br>
+<br>
+
+<b>Installation</b><br>
+Server requirements: Windows NT4, Windows 2000 or Windows XP Pro (Not XP Home!) running IIS, MDAC 2.5+ and VBScript 5.1+ (Recommended: <a href=http://www.microsoft.com/data>MDAC 2.7</a> and <a href=http://msdn.microsoft.com/downloads/sample.asp?url=/MSDN-FILES/027/001/733/msdncompositedoc.xml>VBScript 5.6</a>) <br>
+Client requirements: FileMan has been tested with Internet Explorer 5.0 and higher with javascript and cookies enabled (IE6 or higher is recommended).<br>
+<li>Download and unzip FileMan to a folder in your Webroot, for example /FileMan.<br>
+<li><font color=red><b>Important!</b></font> Create an "Application" for the FileMan virtual folder in IIS (see the FAQ for help). <font color=red>Without an application, Fileman will not work!</font><br>
+<li><font color=red><b>Important!</b></font> Revoke "Read" permissions in IIS (not NTFS!) from the /Database folder to prevent downloading of the account database, or move the database outside the web root and modify the database path in the DBConnection setting in global.asa (or create a DSN).<br>
+<li>Load the diagnostics page http://yourserver/FileMan/diags.asp for a final requirements check. Rename or remove it after you are done!<br>
+<li>Check out the settings in global.asa and modify them to fit your needs<br>
+<li>Start http://yourserver/FileMan and login as administrator (Default user=admin, pass=pass)<br>
+<li>Click on the Account Manager icon on the menu bar to add or modify accounts<br>
+<br>
+
+<b>Optional</b><br>
+<li>For email support: Install <a href=http://www.dimac.net>Jmail</a> or <a href=http://www.serverobjects.com>ASPMail</a> (MS CDONTS is installed by default on most IIS systems)<br>
+<li>Need faster and more efficient uploads than the default ASP upload method? Use any of these 3rd party upload components: <a href=http://www.websupergoo.com>ABCUpload</a>, <a href=http://www.aspupload.com>ASPUpload</a> and <a href=http://www.softwareartisans.com>SA-FileUp</a> and modify "UploadPage" in global.asa.<br>
+<li>Register the supplied DLL's in the /Controls folder with Regsvr32 (For example: Regsvr32 c:\winnt\system32\fathzip.dll)<br>
+<li>To use integrated NT Authentication (Basic or NTLM): remove "Anonymous" permission on the FileMan folder in IIS and enable "UseNTAuthentication" in the "NT Integration" section of global.asa. Also check the other variables in that section. Make sure to set the proper NTFS permissions on the fileman install and rootfolders. When using UseNTAuthentication, you can configure FM to use the users NT profile Home directory as RootFolder by defining the proper variables in the Group's rootfolder setting. Make sure that the option "Allow users to map drives" is only turned on if you want all users to be able to access any drive they have NT permissions to, because this will disable RootFolder checking, what normally confines a user to his/her RootFolder(s)!<br>
+<li>To use FM as a web based storage system: check out the "User Subscriptions settings" section in global.asa.<br>
+<li>Want to use FM user validation on your own ASP pages? Include the following statement on your ASP pages (the goto parameter defines the page you want to send users to after login):<br>
+<i>If Session("User")="" Then Response.redirect "login.asp?goto=mypage.asp"</i><br>
+<br>
+
+<b>Installation tips</b><br>
+<li>Use a difficult to guess folder name for your FileMan installation<br>
+<li>Rename the default admin account and change the password<br>
+<li>Users need NTFS "Change" permission in the /Database folder<br>
+<li>Rename or move diags.asp so users can't run it<br>
+<li>Choose another name for the logfile, or set logging level to 0 to prevent users from downloading and viewing it.<br>
+<li>If you have problems using UNC paths (\\server\share): see FAQ article KB161 "I get Permission Denied errors on files, folders or UNC paths!"<br>
+<br>
+
+<b>Upgrading FileMan</b><br>
+<li>Always use all files in a distribution. Copying parts of it may result in errors.<br>
+<li>Registered users: Always copy the trial first, and copy the source files over that installation<br>
+<li>Always make a backup of the entire Fileman folder before any upgrade.<br>
+<li>It is recommended to set it up in a test site first<br>
+<br>
+Easy<br>
+<li>Obviously the most simple way is to login as Admin and recreate accounts and groups from scratch.<br>
+<br>
+Advanced<br>
+<li>Copy existing relevant settings in your existing global.asa to the new global.asa<br>
+<li>If the new database still contains the same fields as the existing one you can copy the old database over the new one.<br>
+<li>Open the new and old database and compare the fields in Design view (Select Table - Rightclick: Design view). <br>
+<li>Want to keep your database settings? You should add any new fields to the existing database (repeat for all new fields):<br>
+- Select new database - Select Table - Rightclick: Design view - Select the new field - Rightclick: Copy<br>
+- Select existing database - Select Table - Rightclick: Design view - Select the new field - Rightclick: Paste<br>
+<br>
+
+<b>Known bugs & limitations</b><br>
+<li>Memory usage of the IIS service will increase greatly (possible even to 100s MB's) when manipulating large files and listings (1000's of items), because for some functions temporary transfer buffers are used. Although this is only temporary, it should be taken into account when determining server requirements, especially in multi-user environments. Up- and download speeds depend strongly on the CPU speed of the server, and it will be slower for large files. In tests, files of 75MB could be up- and downloaded successfully using the pure asp upload method on a LAN. The supported 3rd party upload components perform much better for big files.
+<li>FileMan has only been tested with Internet Explorer 5.01 and higher. JScript should be enabled, and session state (temporary) cookies should be accepted by your browser.
+<li>In IE5.5, saving some files after editing may hang the client browser. In other browser versions this problem does not occur.<br>
+<br>
+
+<br><center><font face=arial color=888888 size=1>- &copy;2002 iisworks.com -</font></center>
+
+

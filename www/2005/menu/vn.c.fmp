@@ -1,0 +1,105 @@
+[version]
+name=123flashmenu
+number=2
+[template]
+type=1
+name=vn
+main=main
+sub=sub
+label=label
+url=page
+target=target
+other=callback='onclick'
+layer=1
+sort=MyTemplates
+showname=flat-1-layer-flashorange
+[pageconfig]
+width=112
+height=92
+bgcolor=$004BB3FE
+flashbgcolor=clBlack
+transparent=true
+autosize=false
+[paraname]
+item0=Item Height
+item1=Item Width
+item2=Item Spacing
+item3=Item Font
+item4=Item Font Szie
+item5=Item Font Color
+item6=Item Font Bold
+item7=Align
+item8=Text x position
+item9=Text y position
+item10=Horizontal
+item11=Menu Color
+item12=Menu Border Color
+item13=Menu Sound
+item14=Embed Font
+[paralevel]
+item0=0
+item1=0
+item2=0
+item3=0
+item4=0
+item5=0
+item6=0
+item7=0
+item8=0
+item9=0
+item10=0
+item11=0
+item12=0
+item13=0
+item14=0
+[paradefine]
+item0=Menu item height
+item1=Menu item width
+item2=Menu item spacing
+item3=Menu item font name
+item4=Menu item font size
+item5=Menu item font color
+item6=Set "True" to enable bold font
+item7=Menu item text align
+item8=Menu item text x offset
+item9=Menu item text y offset
+item10=Set "True" for horizontal
+item11=Menu Color
+item12=Menu Border Color
+item13=Sound file of menu. Only .mp3 file is allowed
+item14=Set "True" to enable embed font
+[paratype]
+item0=ptInteger
+item1=ptInteger
+item2=ptInteger
+item3=ptFont
+item4=ptInteger
+item5=ptColor
+item6=ptBoolean
+item7=ptValuesList
+item8=ptInteger
+item9=ptInteger
+item10=ptBoolean
+item11=ptColor
+item12=ptColor
+item13=ptTextButton
+item14=ptBoolean
+[paravalue]
+item0=20
+item1=111
+item2=3
+item3=Ethnocentric
+item4=10
+item5=clWhite
+item6=false
+item7=left,right
+item8=20
+item9=3
+item10=false
+item11=$00FF8080
+item12=clInfoBk
+item13=
+item14=true
+[treeinfo]
+1-1-item=contato
+1-1-url=http://www.visaonoturna.com/2005/pag_contato.asp

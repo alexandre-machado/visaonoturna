@@ -1,0 +1,733 @@
+10/6/2006 03:55:10			### Starting application: FileMan 6.5b ###
+10/6/2006 03:55:10			Checking object: FathCrypt.CFathCrypt.1 - False
+10/6/2006 03:55:10			Checking object: Fath.Upload - False
+10/6/2006 03:55:10			Checking object: Shell.Application - True
+10/6/2006 03:55:15			Checking object: ADsSecurity - False
+10/6/2006 03:55:15			Verified GetShortName setting: True
+10/6/2006 03:55:15			Collected default language strings for English.dat
+10/6/2006 03:55:15			### Application started ###
+10/6/2006 04:26:10		201.66.205.44	Cleanup files from D:\hshome\visaonot\visaonoturna.com\PubDownload\
+10/6/2006 12:39:09			### Starting application: FileMan 6.5b ###
+10/6/2006 12:39:09			Checking object: FathCrypt.CFathCrypt.1 - False
+10/6/2006 12:39:09			Checking object: Fath.Upload - False
+10/6/2006 12:39:09			Checking object: Shell.Application - True
+10/6/2006 12:39:14			Checking object: ADsSecurity - False
+10/6/2006 12:39:14			Verified GetShortName setting: True
+10/6/2006 12:39:14			Collected default language strings for English.dat
+10/6/2006 12:39:14			### Application started ###
+10/6/2006 13:14:10		201.66.205.185	Cleanup files from D:\hshome\visaonot\visaonoturna.com\PubDownload\
+11/6/2006 12:30:10			### Starting application: FileMan 6.5b ###
+11/6/2006 12:30:10			Checking object: FathCrypt.CFathCrypt.1 - False
+11/6/2006 12:30:10			Checking object: Fath.Upload - False
+11/6/2006 12:30:10			Checking object: Shell.Application - True
+11/6/2006 12:30:15			Checking object: ADsSecurity - False
+11/6/2006 12:30:15			Verified GetShortName setting: True
+11/6/2006 12:30:15			Collected default language strings for English.dat
+11/6/2006 12:30:15			### Application started ###
+11/6/2006 13:01:11		200.96.100.199	Cleanup files from D:\hshome\visaonot\visaonoturna.com\PubDownload\
+12/6/2006 00:07:06	Diags: Logfile test
+12/6/2006 00:12:52	Diags: Logfile test
+12/6/2006 00:13:14	Diags: Logfile test
+12/6/2006 00:13:58			### Starting application: FileMan 6.5b ###
+12/6/2006 00:13:58			Checking object: FathCrypt.CFathCrypt.1 - False
+12/6/2006 00:13:58			Checking object: Fath.Upload - False
+12/6/2006 00:13:58			Checking object: Shell.Application - True
+12/6/2006 00:14:03			Checking object: ADsSecurity - False
+12/6/2006 00:14:03			Verified GetShortName setting: True
+12/6/2006 00:14:03			Collected default language strings for English.dat
+12/6/2006 00:14:03			### Application started ###
+12/6/2006 00:14:10	Diags: Logfile test
+12/6/2006 00:37:10		201.66.205.185	Cleanup files from D:\hshome\visaonot\visaonoturna.com\PubDownload\
+12/6/2006 08:43:09			### Starting application: FileMan 6.7b ###
+12/6/2006 08:43:09			Checking object: FathCrypt.CFathCrypt.1 - False
+12/6/2006 08:43:09			Checking object: Fath.Upload - False
+12/6/2006 08:43:09			Checking object: Shell.Application - True
+12/6/2006 08:43:15			Checking object: ADsSecurity - False
+12/6/2006 08:43:15			Verified GetShortName setting: True
+12/6/2006 08:43:15			Collected default language strings for english.dat
+12/6/2006 08:43:15			### Application started ###
+12/6/2006 09:14:10		200.203.91.226	Cleanup files from D:\hshome\visaonot\visaonoturna.com\PubDownload\
+12/6/2006 17:24:50	Diags: Logfile test
+12/6/2006 17:27:21			### Starting application: FileMan 6.7b ###
+12/6/2006 17:27:21			Checking object: FathCrypt.CFathCrypt.1 - False
+12/6/2006 17:27:21			Checking object: Fath.Upload - False
+12/6/2006 17:27:21			Checking object: Shell.Application - True
+12/6/2006 17:27:26			Checking object: ADsSecurity - False
+12/6/2006 17:27:26			Verified GetShortName setting: True
+12/6/2006 17:27:26			Collected default language strings for english.dat
+12/6/2006 17:27:26			### Application started ###
+12/6/2006 18:08:22		201.41.15.61	Cleanup files from D:\hshome\visaonot\visaonoturna.com\PubDownload\
+12/6/2006 19:31:06			### Starting application: FileMan 6.7b ###
+12/6/2006 19:31:06			Checking object: FathCrypt.CFathCrypt.1 - False
+12/6/2006 19:31:06			Checking object: Fath.Upload - False
+12/6/2006 19:31:06			Checking object: Shell.Application - True
+12/6/2006 19:31:11			Checking object: ADsSecurity - False
+12/6/2006 19:31:11			Verified GetShortName setting: True
+12/6/2006 19:31:11			Collected default language strings for english.dat
+12/6/2006 19:31:11			### Application started ###
+12/6/2006 19:33:23	Diags: Logfile test
+12/6/2006 19:35:50	Diags: Logfile test
+12/6/2006 19:35:57	Diags: Logfile test
+12/6/2006 20:06:07		200.203.70.193	Cleanup files from D:\hshome\visaonot\visaonoturna.com\PubDownload\
+12/6/2006 20:56:43			### Starting application: FileMan 6.7b ###
+12/6/2006 20:56:43			Checking object: FathCrypt.CFathCrypt.1 - False
+12/6/2006 20:56:43			Checking object: Fath.Upload - False
+12/6/2006 20:56:43			Checking object: Shell.Application - True
+12/6/2006 20:56:48			Checking object: ADsSecurity - False
+12/6/2006 20:56:48			Verified GetShortName setting: True
+12/6/2006 20:56:48			Collected default language strings for english.dat
+12/6/2006 20:56:48			### Application started ###
+12/6/2006 21:03:03	Diags: Logfile test
+12/6/2006 21:30:43		200.96.85.187	Cleanup files from D:\hshome\visaonot\visaonoturna.com\PubDownload\
+13/6/2006 13:03:39			### Starting application: FileMan 6.7b ###
+13/6/2006 13:03:39			Checking object: FathCrypt.CFathCrypt.1 - False
+13/6/2006 13:03:39			Checking object: Fath.Upload - False
+13/6/2006 13:03:39			Checking object: Shell.Application - True
+13/6/2006 13:03:45			Checking object: ADsSecurity - False
+13/6/2006 13:03:45			Verified GetShortName setting: True
+13/6/2006 13:03:45			Collected default language strings for english.dat
+13/6/2006 13:03:45			### Application started ###
+13/6/2006 13:39:40		201.34.85.6	Cleanup files from D:\hshome\visaonot\visaonoturna.com\PubDownload\
+13/6/2006 14:13:27	Diags: Logfile test
+14/6/2006 11:52:21			### Starting application: FileMan 6.7b ###
+14/6/2006 11:52:21			Checking object: FathCrypt.CFathCrypt.1 - False
+14/6/2006 11:52:21			Checking object: Fath.Upload - False
+14/6/2006 11:52:21			Checking object: Shell.Application - True
+14/6/2006 11:52:26			Checking object: ADsSecurity - False
+14/6/2006 11:52:26			Verified GetShortName setting: True
+14/6/2006 11:52:26			Collected default language strings for english.dat
+14/6/2006 11:52:26			### Application started ###
+14/6/2006 16:29:53			### Starting application: FileMan 6.7b ###
+14/6/2006 16:29:53			Checking object: FathCrypt.CFathCrypt.1 - False
+14/6/2006 16:29:53			Checking object: Fath.Upload - False
+14/6/2006 16:29:53			Checking object: Shell.Application - True
+14/6/2006 16:29:59			Checking object: ADsSecurity - False
+14/6/2006 16:29:59			Verified GetShortName setting: True
+14/6/2006 16:29:59			Collected default language strings for english.dat
+14/6/2006 16:29:59			### Application started ###
+14/6/2006 20:54:54	Diags: Logfile test
+14/6/2006 20:55:39	Diags: Logfile test
+15/6/2006 14:15:30			### Starting application: FileMan 6.7b ###
+15/6/2006 14:15:30			Checking object: FathCrypt.CFathCrypt.1 - False
+15/6/2006 14:15:30			Checking object: Fath.Upload - False
+15/6/2006 14:15:30			Checking object: Shell.Application - True
+15/6/2006 14:15:35			Checking object: ADsSecurity - False
+15/6/2006 14:15:35			Verified GetShortName setting: True
+15/6/2006 14:15:35			Collected default language strings for english.dat
+15/6/2006 14:15:35			### Application started ###
+17/6/2006 21:14:38			### Starting application: FileMan 6.7b ###
+17/6/2006 21:14:38			Checking object: FathCrypt.CFathCrypt.1 - False
+17/6/2006 21:14:38			Checking object: Fath.Upload - False
+17/6/2006 21:14:38			Checking object: Shell.Application - True
+17/6/2006 21:14:43			Checking object: ADsSecurity - False
+17/6/2006 21:14:43			Verified GetShortName setting: True
+17/6/2006 21:14:43			Collected default language strings for english.dat
+17/6/2006 21:14:43			### Application started ###
+19/6/2006 09:22:15			### Starting application: FileMan 6.7b ###
+19/6/2006 09:22:15			Checking object: FathCrypt.CFathCrypt.1 - False
+19/6/2006 09:22:15			Checking object: Fath.Upload - False
+19/6/2006 09:22:15			Checking object: Shell.Application - True
+19/6/2006 09:22:20			Checking object: ADsSecurity - False
+19/6/2006 09:22:20			Verified GetShortName setting: True
+19/6/2006 09:22:20			Collected default language strings for english.dat
+19/6/2006 09:22:20			### Application started ###
+19/6/2006 16:13:41			### Starting application: FileMan 6.7b ###
+19/6/2006 16:13:41			Checking object: FathCrypt.CFathCrypt.1 - False
+19/6/2006 16:13:41			Checking object: Fath.Upload - False
+19/6/2006 16:13:41			Checking object: Shell.Application - True
+19/6/2006 16:13:47			Checking object: ADsSecurity - False
+19/6/2006 16:13:47			Verified GetShortName setting: True
+19/6/2006 16:13:47			Collected default language strings for english.dat
+19/6/2006 16:13:47			### Application started ###
+20/6/2006 16:25:54			### Starting application: FileMan 6.7b ###
+20/6/2006 16:25:54			Checking object: FathCrypt.CFathCrypt.1 - False
+20/6/2006 16:25:54			Checking object: Fath.Upload - False
+20/6/2006 16:25:55			Checking object: Shell.Application - True
+20/6/2006 16:26:00			Checking object: ADsSecurity - False
+20/6/2006 16:26:00			Verified GetShortName setting: True
+20/6/2006 16:26:00			Collected default language strings for english.dat
+20/6/2006 16:26:00			### Application started ###
+20/6/2006 19:45:40			### Starting application: FileMan 6.7b ###
+20/6/2006 19:45:40			Checking object: FathCrypt.CFathCrypt.1 - False
+20/6/2006 19:45:40			Checking object: Fath.Upload - False
+20/6/2006 19:45:40			Checking object: Shell.Application - True
+20/6/2006 19:45:45			Checking object: ADsSecurity - False
+20/6/2006 19:45:45			Verified GetShortName setting: True
+20/6/2006 19:45:45			Collected default language strings for english.dat
+20/6/2006 19:45:45			### Application started ###
+22/6/2006 02:09:26			### Starting application: FileMan 6.7b ###
+22/6/2006 02:09:26			Checking object: FathCrypt.CFathCrypt.1 - False
+22/6/2006 02:09:26			Checking object: Fath.Upload - False
+22/6/2006 02:09:26			Checking object: Shell.Application - True
+22/6/2006 02:09:31			Checking object: ADsSecurity - False
+22/6/2006 02:09:31			Verified GetShortName setting: True
+22/6/2006 02:09:31			Collected default language strings for english.dat
+22/6/2006 02:09:31			### Application started ###
+22/6/2006 10:12:05			### Starting application: FileMan 6.7b ###
+22/6/2006 10:12:05			Checking object: FathCrypt.CFathCrypt.1 - False
+22/6/2006 10:12:05			Checking object: Fath.Upload - False
+22/6/2006 10:12:05			Checking object: Shell.Application - True
+22/6/2006 10:12:11			Checking object: ADsSecurity - False
+22/6/2006 10:12:11			Verified GetShortName setting: True
+22/6/2006 10:12:11			Collected default language strings for english.dat
+22/6/2006 10:12:11			### Application started ###
+22/6/2006 12:36:05			### Starting application: FileMan 6.7b ###
+22/6/2006 12:36:05			Checking object: FathCrypt.CFathCrypt.1 - False
+22/6/2006 12:36:05			Checking object: Fath.Upload - False
+22/6/2006 12:36:05			Checking object: Shell.Application - True
+22/6/2006 12:36:10			Checking object: ADsSecurity - False
+22/6/2006 12:36:10			Verified GetShortName setting: True
+22/6/2006 12:36:10			Collected default language strings for english.dat
+22/6/2006 12:36:10			### Application started ###
+23/6/2006 20:39:43			### Starting application: FileMan 6.7b ###
+23/6/2006 20:39:43			Checking object: FathCrypt.CFathCrypt.1 - False
+23/6/2006 20:39:43			Checking object: Fath.Upload - False
+23/6/2006 20:39:43			Checking object: Shell.Application - True
+23/6/2006 20:39:48			Checking object: ADsSecurity - False
+23/6/2006 20:39:48			Verified GetShortName setting: True
+23/6/2006 20:39:48			Collected default language strings for english.dat
+23/6/2006 20:39:48			### Application started ###
+27/6/2006 16:14:43			### Starting application: FileMan 6.7b ###
+27/6/2006 16:14:43			Checking object: FathCrypt.CFathCrypt.1 - False
+27/6/2006 16:14:43			Checking object: Fath.Upload - False
+27/6/2006 16:14:43			Checking object: Shell.Application - True
+27/6/2006 16:14:51			Checking object: ADsSecurity - False
+27/6/2006 16:14:51			Verified GetShortName setting: True
+27/6/2006 16:14:51			Collected default language strings for english.dat
+27/6/2006 16:14:51			### Application started ###
+28/6/2006 10:02:15			### Starting application: FileMan 6.7b ###
+28/6/2006 10:02:15			Checking object: FathCrypt.CFathCrypt.1 - False
+28/6/2006 10:02:15			Checking object: Fath.Upload - False
+28/6/2006 10:02:15			Checking object: Shell.Application - True
+28/6/2006 10:02:21			Checking object: ADsSecurity - False
+28/6/2006 10:02:21			Verified GetShortName setting: True
+28/6/2006 10:02:21			Collected default language strings for english.dat
+28/6/2006 10:02:21			### Application started ###
+28/6/2006 14:11:04			### Starting application: FileMan 6.7b ###
+28/6/2006 14:11:04			Checking object: FathCrypt.CFathCrypt.1 - False
+28/6/2006 14:11:04			Checking object: Fath.Upload - False
+28/6/2006 14:11:04			Checking object: Shell.Application - True
+28/6/2006 14:11:09			Checking object: ADsSecurity - False
+28/6/2006 14:11:09			Verified GetShortName setting: True
+28/6/2006 14:11:09			Collected default language strings for english.dat
+28/6/2006 14:11:09			### Application started ###
+28/6/2006 14:42:04			### Starting application: FileMan 6.7b ###
+28/6/2006 14:42:04			Checking object: FathCrypt.CFathCrypt.1 - False
+28/6/2006 14:42:04			Checking object: Fath.Upload - False
+28/6/2006 14:42:04			Checking object: Shell.Application - True
+28/6/2006 14:42:10			Checking object: ADsSecurity - False
+28/6/2006 14:42:10			Verified GetShortName setting: True
+28/6/2006 14:42:10			Collected default language strings for english.dat
+28/6/2006 14:42:10			### Application started ###
+28/6/2006 15:26:26			### Starting application: FileMan 6.7b ###
+28/6/2006 15:26:26			Checking object: FathCrypt.CFathCrypt.1 - False
+28/6/2006 15:26:26			Checking object: Fath.Upload - False
+28/6/2006 15:26:26			Checking object: Shell.Application - True
+28/6/2006 15:26:31			Checking object: ADsSecurity - False
+28/6/2006 15:26:31			Verified GetShortName setting: True
+28/6/2006 15:26:31			Collected default language strings for english.dat
+28/6/2006 15:26:31			### Application started ###
+28/6/2006 16:36:56			### Starting application: FileMan 6.7b ###
+28/6/2006 16:36:56			Checking object: FathCrypt.CFathCrypt.1 - False
+28/6/2006 16:36:56			Checking object: Fath.Upload - False
+28/6/2006 16:36:56			Checking object: Shell.Application - True
+28/6/2006 16:37:01			Checking object: ADsSecurity - False
+28/6/2006 16:37:01			Verified GetShortName setting: True
+28/6/2006 16:37:01			Collected default language strings for english.dat
+28/6/2006 16:37:01			### Application started ###
+29/6/2006 10:04:14			### Starting application: FileMan 6.7b ###
+29/6/2006 10:04:14			Checking object: FathCrypt.CFathCrypt.1 - False
+29/6/2006 10:04:14			Checking object: Fath.Upload - False
+29/6/2006 10:04:14			Checking object: Shell.Application - True
+29/6/2006 10:04:20			Checking object: ADsSecurity - False
+29/6/2006 10:04:20			Verified GetShortName setting: True
+29/6/2006 10:04:20			Collected default language strings for english.dat
+29/6/2006 10:04:20			### Application started ###
+30/6/2006 10:18:59			### Starting application: FileMan 6.7b ###
+30/6/2006 10:18:59			Checking object: FathCrypt.CFathCrypt.1 - False
+30/6/2006 10:18:59			Checking object: Fath.Upload - False
+30/6/2006 10:18:59			Checking object: Shell.Application - True
+30/6/2006 10:19:05			Checking object: ADsSecurity - False
+30/6/2006 10:19:05			Verified GetShortName setting: True
+30/6/2006 10:19:05			Collected default language strings for english.dat
+30/6/2006 10:19:05			### Application started ###
+30/6/2006 15:22:29			### Starting application: FileMan 6.7b ###
+30/6/2006 15:22:29			Checking object: FathCrypt.CFathCrypt.1 - False
+30/6/2006 15:22:29			Checking object: Fath.Upload - False
+30/6/2006 15:22:29			Checking object: Shell.Application - True
+30/6/2006 15:22:34			Checking object: ADsSecurity - False
+30/6/2006 15:22:34			Verified GetShortName setting: True
+30/6/2006 15:22:34			Collected default language strings for english.dat
+30/6/2006 15:22:34			### Application started ###
+1/7/2006 01:16:53	Diags: Logfile test
+1/7/2006 04:03:17			### Starting application: FileMan 6.7b ###
+1/7/2006 04:03:17			Checking object: FathCrypt.CFathCrypt.1 - False
+1/7/2006 04:03:17			Checking object: Fath.Upload - False
+1/7/2006 04:03:17			Checking object: Shell.Application - True
+1/7/2006 04:03:23			Checking object: ADsSecurity - False
+1/7/2006 04:03:23			Verified GetShortName setting: True
+1/7/2006 04:03:23			Collected default language strings for english.dat
+1/7/2006 04:03:23			### Application started ###
+1/7/2006 19:07:09			### Starting application: FileMan 6.7b ###
+1/7/2006 19:07:09			Checking object: FathCrypt.CFathCrypt.1 - False
+1/7/2006 19:07:09			Checking object: Fath.Upload - False
+1/7/2006 19:07:09			Checking object: Shell.Application - True
+1/7/2006 19:07:15			Checking object: ADsSecurity - False
+1/7/2006 19:07:15			Verified GetShortName setting: True
+1/7/2006 19:07:15			Collected default language strings for english.dat
+1/7/2006 19:07:15			### Application started ###
+2/7/2006 12:51:40			### Starting application: FileMan 6.7b ###
+2/7/2006 12:51:40			Checking object: FathCrypt.CFathCrypt.1 - False
+2/7/2006 12:51:40			Checking object: Fath.Upload - False
+2/7/2006 12:51:40			Checking object: Shell.Application - True
+2/7/2006 12:51:46			Checking object: ADsSecurity - False
+2/7/2006 12:51:46			Verified GetShortName setting: True
+2/7/2006 12:51:46			Collected default language strings for english.dat
+2/7/2006 12:51:46			### Application started ###
+3/7/2006 10:43:02			### Starting application: FileMan 6.7b ###
+3/7/2006 10:43:02			Checking object: FathCrypt.CFathCrypt.1 - False
+3/7/2006 10:43:02			Checking object: Fath.Upload - False
+3/7/2006 10:43:03			Checking object: Shell.Application - True
+3/7/2006 10:43:08			Checking object: ADsSecurity - False
+3/7/2006 10:43:08			Verified GetShortName setting: True
+3/7/2006 10:43:08			Collected default language strings for english.dat
+3/7/2006 10:43:08			### Application started ###
+3/7/2006 15:51:24			### Starting application: FileMan 6.7b ###
+3/7/2006 15:51:24			Checking object: FathCrypt.CFathCrypt.1 - False
+3/7/2006 15:51:24			Checking object: Fath.Upload - False
+3/7/2006 15:51:24			Checking object: Shell.Application - True
+3/7/2006 15:51:29			Checking object: ADsSecurity - False
+3/7/2006 15:51:29			Verified GetShortName setting: True
+3/7/2006 15:51:29			Collected default language strings for english.dat
+3/7/2006 15:51:29			### Application started ###
+4/7/2006 09:15:24			### Starting application: FileMan 6.7b ###
+4/7/2006 09:15:24			Checking object: FathCrypt.CFathCrypt.1 - False
+4/7/2006 09:15:24			Checking object: Fath.Upload - False
+4/7/2006 09:15:24			Checking object: Shell.Application - True
+4/7/2006 09:15:30			Checking object: ADsSecurity - False
+4/7/2006 09:15:30			Verified GetShortName setting: True
+4/7/2006 09:15:30			Collected default language strings for english.dat
+4/7/2006 09:15:30			### Application started ###
+4/7/2006 11:18:35			### Starting application: FileMan 6.7b ###
+4/7/2006 11:18:35			Checking object: FathCrypt.CFathCrypt.1 - False
+4/7/2006 11:18:35			Checking object: Fath.Upload - False
+4/7/2006 11:18:35			Checking object: Shell.Application - True
+4/7/2006 11:18:40			Checking object: ADsSecurity - False
+4/7/2006 11:18:40			Verified GetShortName setting: True
+4/7/2006 11:18:40			Collected default language strings for english.dat
+4/7/2006 11:18:40			### Application started ###
+4/7/2006 15:05:20			### Starting application: FileMan 6.7b ###
+4/7/2006 15:05:20			Checking object: FathCrypt.CFathCrypt.1 - False
+4/7/2006 15:05:20			Checking object: Fath.Upload - False
+4/7/2006 15:05:20			Checking object: Shell.Application - True
+4/7/2006 15:05:25			Checking object: ADsSecurity - False
+4/7/2006 15:05:25			Verified GetShortName setting: True
+4/7/2006 15:05:25			Collected default language strings for english.dat
+4/7/2006 15:05:25			### Application started ###
+5/7/2006 11:09:40			### Starting application: FileMan 6.7b ###
+5/7/2006 11:09:40			Checking object: FathCrypt.CFathCrypt.1 - False
+5/7/2006 11:09:40			Checking object: Fath.Upload - False
+5/7/2006 11:09:41			Checking object: Shell.Application - True
+5/7/2006 11:09:46			Checking object: ADsSecurity - False
+5/7/2006 11:09:46			Verified GetShortName setting: True
+5/7/2006 11:09:46			Collected default language strings for english.dat
+5/7/2006 11:09:46			### Application started ###
+5/7/2006 16:02:56			### Starting application: FileMan 6.7b ###
+5/7/2006 16:02:56			Checking object: FathCrypt.CFathCrypt.1 - False
+5/7/2006 16:02:56			Checking object: Fath.Upload - False
+5/7/2006 16:02:57			Checking object: Shell.Application - True
+5/7/2006 16:03:02			Checking object: ADsSecurity - False
+5/7/2006 16:03:02			Verified GetShortName setting: True
+5/7/2006 16:03:02			Collected default language strings for english.dat
+5/7/2006 16:03:02			### Application started ###
+5/7/2006 16:41:03			### Starting application: FileMan 6.7b ###
+5/7/2006 16:41:03			Checking object: FathCrypt.CFathCrypt.1 - False
+5/7/2006 16:41:03			Checking object: Fath.Upload - False
+5/7/2006 16:41:04			Checking object: Shell.Application - True
+5/7/2006 16:41:09			Checking object: ADsSecurity - False
+5/7/2006 16:41:09			Verified GetShortName setting: True
+5/7/2006 16:41:09			Collected default language strings for english.dat
+5/7/2006 16:41:09			### Application started ###
+5/7/2006 18:12:11			### Starting application: FileMan 6.7b ###
+5/7/2006 18:12:11			Checking object: FathCrypt.CFathCrypt.1 - False
+5/7/2006 18:12:11			Checking object: Fath.Upload - False
+5/7/2006 18:12:11			Checking object: Shell.Application - True
+5/7/2006 18:12:17			Checking object: ADsSecurity - False
+5/7/2006 18:12:17			Verified GetShortName setting: True
+5/7/2006 18:12:17			Collected default language strings for english.dat
+5/7/2006 18:12:17			### Application started ###
+6/7/2006 10:11:18			### Starting application: FileMan 6.7b ###
+6/7/2006 10:11:18			Checking object: FathCrypt.CFathCrypt.1 - False
+6/7/2006 10:11:18			Checking object: Fath.Upload - False
+6/7/2006 10:11:19			Checking object: Shell.Application - True
+6/7/2006 10:11:25			Checking object: ADsSecurity - False
+6/7/2006 10:11:25			Verified GetShortName setting: True
+6/7/2006 10:11:25			Collected default language strings for english.dat
+6/7/2006 10:11:25			### Application started ###
+6/7/2006 14:08:11			### Starting application: FileMan 6.7b ###
+6/7/2006 14:08:11			Checking object: FathCrypt.CFathCrypt.1 - False
+6/7/2006 14:08:11			Checking object: Fath.Upload - False
+6/7/2006 14:08:11			Checking object: Shell.Application - True
+6/7/2006 14:08:18			Checking object: ADsSecurity - False
+6/7/2006 14:08:18			Verified GetShortName setting: True
+6/7/2006 14:08:18			Collected default language strings for english.dat
+6/7/2006 14:08:18			### Application started ###
+6/7/2006 15:48:58			### Starting application: FileMan 6.7b ###
+6/7/2006 15:48:58			Checking object: FathCrypt.CFathCrypt.1 - False
+6/7/2006 15:48:59			Checking object: Fath.Upload - False
+6/7/2006 15:48:59			Checking object: Shell.Application - True
+6/7/2006 15:49:05			Checking object: ADsSecurity - False
+6/7/2006 15:49:05			Verified GetShortName setting: True
+6/7/2006 15:49:05			Collected default language strings for english.dat
+6/7/2006 15:49:05			### Application started ###
+7/7/2006 08:17:37			### Starting application: FileMan 6.7b ###
+7/7/2006 08:17:37			Checking object: FathCrypt.CFathCrypt.1 - False
+7/7/2006 08:17:37			Checking object: Fath.Upload - False
+7/7/2006 08:17:37			Checking object: Shell.Application - True
+7/7/2006 08:17:43			Checking object: ADsSecurity - False
+7/7/2006 08:17:43			Verified GetShortName setting: True
+7/7/2006 08:17:43			Collected default language strings for english.dat
+7/7/2006 08:17:43			### Application started ###
+7/7/2006 14:38:51			### Starting application: FileMan 6.7b ###
+7/7/2006 14:38:51			Checking object: FathCrypt.CFathCrypt.1 - False
+7/7/2006 14:38:51			Checking object: Fath.Upload - False
+7/7/2006 14:38:51			Checking object: Shell.Application - True
+7/7/2006 14:38:57			Checking object: ADsSecurity - False
+7/7/2006 14:38:57			Verified GetShortName setting: True
+7/7/2006 14:38:57			Collected default language strings for english.dat
+7/7/2006 14:38:57			### Application started ###
+7/7/2006 17:31:34			### Starting application: FileMan 6.7b ###
+7/7/2006 17:31:34			Checking object: FathCrypt.CFathCrypt.1 - False
+7/7/2006 17:31:34			Checking object: Fath.Upload - False
+7/7/2006 17:31:34			Checking object: Shell.Application - True
+7/7/2006 17:31:40			Checking object: ADsSecurity - False
+7/7/2006 17:31:40			Verified GetShortName setting: True
+7/7/2006 17:31:40			Collected default language strings for english.dat
+7/7/2006 17:31:40			### Application started ###
+7/7/2006 18:44:01			### Starting application: FileMan 6.7b ###
+7/7/2006 18:44:01			Checking object: FathCrypt.CFathCrypt.1 - False
+7/7/2006 18:44:01			Checking object: Fath.Upload - False
+7/7/2006 18:44:01			Checking object: Shell.Application - True
+7/7/2006 18:44:07			Checking object: ADsSecurity - False
+7/7/2006 18:44:07			Verified GetShortName setting: True
+7/7/2006 18:44:07			Collected default language strings for english.dat
+7/7/2006 18:44:07			### Application started ###
+7/7/2006 20:35:03			### Starting application: FileMan 6.7b ###
+7/7/2006 20:35:03			Checking object: FathCrypt.CFathCrypt.1 - False
+7/7/2006 20:35:03			Checking object: Fath.Upload - False
+7/7/2006 20:35:03			Checking object: Shell.Application - True
+7/7/2006 20:35:09			Checking object: ADsSecurity - False
+7/7/2006 20:35:09			Verified GetShortName setting: True
+7/7/2006 20:35:09			Collected default language strings for english.dat
+7/7/2006 20:35:09			### Application started ###
+8/7/2006 20:39:34			### Starting application: FileMan 6.7b ###
+8/7/2006 20:39:34			Checking object: FathCrypt.CFathCrypt.1 - False
+8/7/2006 20:39:34			Checking object: Fath.Upload - False
+8/7/2006 20:39:34			Checking object: Shell.Application - True
+8/7/2006 20:39:39			Checking object: ADsSecurity - False
+8/7/2006 20:39:39			Verified GetShortName setting: True
+8/7/2006 20:39:39			Collected default language strings for english.dat
+8/7/2006 20:39:39			### Application started ###
+9/7/2006 18:48:14			### Starting application: FileMan 6.7b ###
+9/7/2006 18:48:14			Checking object: FathCrypt.CFathCrypt.1 - False
+9/7/2006 18:48:14			Checking object: Fath.Upload - False
+9/7/2006 18:48:14			Checking object: Shell.Application - True
+9/7/2006 18:48:20			Checking object: ADsSecurity - False
+9/7/2006 18:48:20			Verified GetShortName setting: True
+9/7/2006 18:48:20			Collected default language strings for english.dat
+9/7/2006 18:48:20			### Application started ###
+10/7/2006 11:03:08			### Starting application: FileMan 6.7b ###
+10/7/2006 11:03:08			Checking object: FathCrypt.CFathCrypt.1 - False
+10/7/2006 11:03:08			Checking object: Fath.Upload - False
+10/7/2006 11:03:08			Checking object: Shell.Application - True
+10/7/2006 11:03:19			Checking object: ADsSecurity - False
+10/7/2006 11:03:19			Verified GetShortName setting: True
+10/7/2006 11:03:19			Collected default language strings for english.dat
+10/7/2006 11:03:19			### Application started ###
+10/7/2006 12:36:20			### Starting application: FileMan 6.7b ###
+10/7/2006 12:36:20			Checking object: FathCrypt.CFathCrypt.1 - False
+10/7/2006 12:36:20			Checking object: Fath.Upload - False
+10/7/2006 12:36:20			Checking object: Shell.Application - True
+10/7/2006 12:36:25			Checking object: ADsSecurity - False
+10/7/2006 12:36:25			Verified GetShortName setting: True
+10/7/2006 12:36:25			Collected default language strings for english.dat
+10/7/2006 12:36:25			### Application started ###
+10/7/2006 16:41:43			### Starting application: FileMan 6.7b ###
+10/7/2006 16:41:43			Checking object: FathCrypt.CFathCrypt.1 - False
+10/7/2006 16:41:43			Checking object: Fath.Upload - False
+10/7/2006 16:41:44			Checking object: Shell.Application - True
+10/7/2006 16:41:50			Checking object: ADsSecurity - False
+10/7/2006 16:41:50			Verified GetShortName setting: True
+10/7/2006 16:41:50			Collected default language strings for english.dat
+10/7/2006 16:41:50			### Application started ###
+11/7/2006 11:15:12			### Starting application: FileMan 6.7b ###
+11/7/2006 11:15:12			Checking object: FathCrypt.CFathCrypt.1 - False
+11/7/2006 11:15:12			Checking object: Fath.Upload - False
+11/7/2006 11:15:12			Checking object: Shell.Application - True
+11/7/2006 11:15:19			Checking object: ADsSecurity - False
+11/7/2006 11:15:19			Verified GetShortName setting: True
+11/7/2006 11:15:19			Collected default language strings for english.dat
+11/7/2006 11:15:19			### Application started ###
+12/7/2006 12:05:10			### Starting application: FileMan 6.7b ###
+12/7/2006 12:05:10			Checking object: FathCrypt.CFathCrypt.1 - False
+12/7/2006 12:05:10			Checking object: Fath.Upload - False
+12/7/2006 12:05:10			Checking object: Shell.Application - True
+12/7/2006 12:05:17			Checking object: ADsSecurity - False
+12/7/2006 12:05:17			Verified GetShortName setting: True
+12/7/2006 12:05:17			Collected default language strings for english.dat
+12/7/2006 12:05:17			### Application started ###
+12/7/2006 14:01:47			### Starting application: FileMan 6.7b ###
+12/7/2006 14:01:47			Checking object: FathCrypt.CFathCrypt.1 - False
+12/7/2006 14:01:47			Checking object: Fath.Upload - False
+12/7/2006 14:01:47			Checking object: Shell.Application - True
+12/7/2006 14:01:54			Checking object: ADsSecurity - False
+12/7/2006 14:01:54			Verified GetShortName setting: True
+12/7/2006 14:01:54			Collected default language strings for english.dat
+12/7/2006 14:01:54			### Application started ###
+12/7/2006 23:23:02			### Starting application: FileMan 6.7b ###
+12/7/2006 23:23:02			Checking object: FathCrypt.CFathCrypt.1 - False
+12/7/2006 23:23:02			Checking object: Fath.Upload - False
+12/7/2006 23:23:02			Checking object: Shell.Application - True
+12/7/2006 23:23:09			Checking object: ADsSecurity - False
+12/7/2006 23:23:09			Verified GetShortName setting: True
+12/7/2006 23:23:09			Collected default language strings for english.dat
+12/7/2006 23:23:09			### Application started ###
+13/7/2006 14:09:29			### Starting application: FileMan 6.7b ###
+13/7/2006 14:09:29			Checking object: FathCrypt.CFathCrypt.1 - False
+13/7/2006 14:09:29			Checking object: Fath.Upload - False
+13/7/2006 14:09:30			Checking object: Shell.Application - True
+13/7/2006 14:09:38			Checking object: ADsSecurity - False
+13/7/2006 14:09:38			Verified GetShortName setting: True
+13/7/2006 14:09:38			Collected default language strings for english.dat
+13/7/2006 14:09:38			### Application started ###
+13/7/2006 20:10:54			### Starting application: FileMan 6.7b ###
+13/7/2006 20:10:54			Checking object: FathCrypt.CFathCrypt.1 - False
+13/7/2006 20:10:54			Checking object: Fath.Upload - False
+13/7/2006 20:10:54			Checking object: Shell.Application - True
+13/7/2006 20:11:01			Checking object: ADsSecurity - False
+13/7/2006 20:11:01			Verified GetShortName setting: True
+13/7/2006 20:11:01			Collected default language strings for english.dat
+13/7/2006 20:11:01			### Application started ###
+14/7/2006 20:39:00			### Starting application: FileMan 6.7b ###
+14/7/2006 20:39:00			Checking object: FathCrypt.CFathCrypt.1 - False
+14/7/2006 20:39:00			Checking object: Fath.Upload - False
+14/7/2006 20:39:00			Checking object: Shell.Application - True
+14/7/2006 20:39:06			Checking object: ADsSecurity - False
+14/7/2006 20:39:06			Verified GetShortName setting: True
+14/7/2006 20:39:06			Collected default language strings for english.dat
+14/7/2006 20:39:06			### Application started ###
+15/7/2006 09:30:30			### Starting application: FileMan 6.7b ###
+15/7/2006 09:30:30			Checking object: FathCrypt.CFathCrypt.1 - False
+15/7/2006 09:30:30			Checking object: Fath.Upload - False
+15/7/2006 09:30:30			Checking object: Shell.Application - True
+15/7/2006 09:30:36			Checking object: ADsSecurity - False
+15/7/2006 09:30:36			Verified GetShortName setting: True
+15/7/2006 09:30:36			Collected default language strings for english.dat
+15/7/2006 09:30:36			### Application started ###
+15/7/2006 18:02:09			### Starting application: FileMan 6.7b ###
+15/7/2006 18:02:09			Checking object: FathCrypt.CFathCrypt.1 - False
+15/7/2006 18:02:09			Checking object: Fath.Upload - False
+15/7/2006 18:02:09			Checking object: Shell.Application - True
+15/7/2006 18:02:16			Checking object: ADsSecurity - False
+15/7/2006 18:02:16			Verified GetShortName setting: True
+15/7/2006 18:02:16			Collected default language strings for english.dat
+15/7/2006 18:02:16			### Application started ###
+15/7/2006 20:33:36			### Starting application: FileMan 6.7b ###
+15/7/2006 20:33:37			Checking object: FathCrypt.CFathCrypt.1 - False
+15/7/2006 20:33:37			Checking object: Fath.Upload - False
+15/7/2006 20:33:37			Checking object: Shell.Application - True
+15/7/2006 20:33:42			Checking object: ADsSecurity - False
+15/7/2006 20:33:42			Verified GetShortName setting: True
+15/7/2006 20:33:42			Collected default language strings for english.dat
+15/7/2006 20:33:42			### Application started ###
+16/7/2006 10:51:22			### Starting application: FileMan 6.7b ###
+16/7/2006 10:51:22			Checking object: FathCrypt.CFathCrypt.1 - False
+16/7/2006 10:51:22			Checking object: Fath.Upload - False
+16/7/2006 10:51:23			Checking object: Shell.Application - True
+16/7/2006 10:51:28			Checking object: ADsSecurity - False
+16/7/2006 10:51:28			Verified GetShortName setting: True
+16/7/2006 10:51:28			Collected default language strings for english.dat
+16/7/2006 10:51:28			### Application started ###
+17/7/2006 03:38:36			### Starting application: FileMan 6.7b ###
+17/7/2006 03:38:36			Checking object: FathCrypt.CFathCrypt.1 - False
+17/7/2006 03:38:36			Checking object: Fath.Upload - False
+17/7/2006 03:38:36			Checking object: Shell.Application - True
+17/7/2006 03:38:41			Checking object: ADsSecurity - False
+17/7/2006 03:38:41			Verified GetShortName setting: True
+17/7/2006 03:38:41			Collected default language strings for english.dat
+17/7/2006 03:38:41			### Application started ###
+17/7/2006 11:49:07			### Starting application: FileMan 6.7b ###
+17/7/2006 11:49:07			Checking object: FathCrypt.CFathCrypt.1 - False
+17/7/2006 11:49:07			Checking object: Fath.Upload - False
+17/7/2006 11:49:07			Checking object: Shell.Application - True
+17/7/2006 11:49:13			Checking object: ADsSecurity - False
+17/7/2006 11:49:13			Verified GetShortName setting: True
+17/7/2006 11:49:13			Collected default language strings for english.dat
+17/7/2006 11:49:13			### Application started ###
+17/7/2006 18:15:03			### Starting application: FileMan 6.7b ###
+17/7/2006 18:15:03			Checking object: FathCrypt.CFathCrypt.1 - False
+17/7/2006 18:15:03			Checking object: Fath.Upload - False
+17/7/2006 18:15:03			Checking object: Shell.Application - True
+17/7/2006 18:15:09			Checking object: ADsSecurity - False
+17/7/2006 18:15:09			Verified GetShortName setting: True
+17/7/2006 18:15:09			Collected default language strings for english.dat
+17/7/2006 18:15:09			### Application started ###
+18/7/2006 12:19:03			### Starting application: FileMan 6.7b ###
+18/7/2006 12:19:03			Checking object: FathCrypt.CFathCrypt.1 - False
+18/7/2006 12:19:03			Checking object: Fath.Upload - False
+18/7/2006 12:19:03			Checking object: Shell.Application - True
+18/7/2006 12:19:08			Checking object: ADsSecurity - False
+18/7/2006 12:19:08			Verified GetShortName setting: True
+18/7/2006 12:19:08			Collected default language strings for english.dat
+18/7/2006 12:19:08			### Application started ###
+19/7/2006 10:06:17			### Starting application: FileMan 6.7b ###
+19/7/2006 10:06:17			Checking object: FathCrypt.CFathCrypt.1 - False
+19/7/2006 10:06:17			Checking object: Fath.Upload - False
+19/7/2006 10:06:17			Checking object: Shell.Application - True
+19/7/2006 10:06:23			Checking object: ADsSecurity - False
+19/7/2006 10:06:23			Verified GetShortName setting: True
+19/7/2006 10:06:23			Collected default language strings for english.dat
+19/7/2006 10:06:23			### Application started ###
+19/7/2006 17:55:08			### Starting application: FileMan 6.7b ###
+19/7/2006 17:55:08			Checking object: FathCrypt.CFathCrypt.1 - False
+19/7/2006 17:55:08			Checking object: Fath.Upload - False
+19/7/2006 17:55:08			Checking object: Shell.Application - True
+19/7/2006 17:55:13			Checking object: ADsSecurity - False
+19/7/2006 17:55:13			Verified GetShortName setting: True
+19/7/2006 17:55:13			Collected default language strings for english.dat
+19/7/2006 17:55:13			### Application started ###
+19/7/2006 21:16:29			### Starting application: FileMan 6.7b ###
+19/7/2006 21:16:29			Checking object: FathCrypt.CFathCrypt.1 - False
+19/7/2006 21:16:29			Checking object: Fath.Upload - False
+19/7/2006 21:16:29			Checking object: Shell.Application - True
+19/7/2006 21:16:34			Checking object: ADsSecurity - False
+19/7/2006 21:16:34			Verified GetShortName setting: True
+19/7/2006 21:16:34			Collected default language strings for english.dat
+19/7/2006 21:16:34			### Application started ###
+20/7/2006 13:46:02			### Starting application: FileMan 6.7b ###
+20/7/2006 13:46:02			Checking object: FathCrypt.CFathCrypt.1 - False
+20/7/2006 13:46:02			Checking object: Fath.Upload - False
+20/7/2006 13:46:02			Checking object: Shell.Application - True
+20/7/2006 13:46:07			Checking object: ADsSecurity - False
+20/7/2006 13:46:07			Verified GetShortName setting: True
+20/7/2006 13:46:07			Collected default language strings for english.dat
+20/7/2006 13:46:07			### Application started ###
+20/7/2006 15:13:06			### Starting application: FileMan 6.7b ###
+20/7/2006 15:13:06			Checking object: FathCrypt.CFathCrypt.1 - False
+20/7/2006 15:13:06			Checking object: Fath.Upload - False
+20/7/2006 15:13:06			Checking object: Shell.Application - True
+20/7/2006 15:13:12			Checking object: ADsSecurity - False
+20/7/2006 15:13:12			Verified GetShortName setting: True
+20/7/2006 15:13:12			Collected default language strings for english.dat
+20/7/2006 15:13:12			### Application started ###
+21/7/2006 20:32:04			### Starting application: FileMan 6.7b ###
+21/7/2006 20:32:04			Checking object: FathCrypt.CFathCrypt.1 - False
+21/7/2006 20:32:04			Checking object: Fath.Upload - False
+21/7/2006 20:32:04			Checking object: Shell.Application - True
+21/7/2006 20:32:10			Checking object: ADsSecurity - False
+21/7/2006 20:32:10			Verified GetShortName setting: True
+21/7/2006 20:32:10			Collected default language strings for english.dat
+21/7/2006 20:32:10			### Application started ###
+23/7/2006 20:00:09			### Starting application: FileMan 6.7b ###
+23/7/2006 20:00:09			Checking object: FathCrypt.CFathCrypt.1 - False
+23/7/2006 20:00:09			Checking object: Fath.Upload - False
+23/7/2006 20:00:09			Checking object: Shell.Application - True
+23/7/2006 20:00:14			Checking object: ADsSecurity - False
+23/7/2006 20:00:14			Verified GetShortName setting: True
+23/7/2006 20:00:14			Collected default language strings for english.dat
+23/7/2006 20:00:14			### Application started ###
+24/7/2006 15:34:36			### Starting application: FileMan 6.7b ###
+24/7/2006 15:34:36			Checking object: FathCrypt.CFathCrypt.1 - False
+24/7/2006 15:34:36			Checking object: Fath.Upload - False
+24/7/2006 15:34:36			Checking object: Shell.Application - True
+24/7/2006 15:34:41			Checking object: ADsSecurity - False
+24/7/2006 15:34:41			Verified GetShortName setting: True
+24/7/2006 15:34:41			Collected default language strings for english.dat
+24/7/2006 15:34:41			### Application started ###
+24/7/2006 19:47:34			### Starting application: FileMan 6.7b ###
+24/7/2006 19:47:34			Checking object: FathCrypt.CFathCrypt.1 - False
+24/7/2006 19:47:34			Checking object: Fath.Upload - False
+24/7/2006 19:47:34			Checking object: Shell.Application - True
+24/7/2006 19:47:40			Checking object: ADsSecurity - False
+24/7/2006 19:47:40			Verified GetShortName setting: True
+24/7/2006 19:47:40			Collected default language strings for english.dat
+24/7/2006 19:47:40			### Application started ###
+25/7/2006 10:14:34			### Starting application: FileMan 6.7b ###
+25/7/2006 10:14:34			Checking object: FathCrypt.CFathCrypt.1 - False
+25/7/2006 10:14:34			Checking object: Fath.Upload - False
+25/7/2006 10:14:34			Checking object: Shell.Application - True
+25/7/2006 10:14:39			Checking object: ADsSecurity - False
+25/7/2006 10:14:39			Verified GetShortName setting: True
+25/7/2006 10:14:39			Collected default language strings for english.dat
+25/7/2006 10:14:39			### Application started ###
+25/7/2006 18:24:17			### Starting application: FileMan 6.7b ###
+25/7/2006 18:24:17			Checking object: FathCrypt.CFathCrypt.1 - False
+25/7/2006 18:24:17			Checking object: Fath.Upload - False
+25/7/2006 18:24:17			Checking object: Shell.Application - True
+25/7/2006 18:24:22			Checking object: ADsSecurity - False
+25/7/2006 18:24:22			Verified GetShortName setting: True
+25/7/2006 18:24:22			Collected default language strings for english.dat
+25/7/2006 18:24:22			### Application started ###
+26/7/2006 02:56:15			### Starting application: FileMan 6.7b ###
+26/7/2006 02:56:15			Checking object: FathCrypt.CFathCrypt.1 - False
+26/7/2006 02:56:15			Checking object: Fath.Upload - False
+26/7/2006 02:56:15			Checking object: Shell.Application - True
+26/7/2006 02:56:21			Checking object: ADsSecurity - False
+26/7/2006 02:56:21			Verified GetShortName setting: True
+26/7/2006 02:56:21			Collected default language strings for english.dat
+26/7/2006 02:56:21			### Application started ###
+26/7/2006 18:30:57			### Starting application: FileMan 6.7b ###
+26/7/2006 18:30:57			Checking object: FathCrypt.CFathCrypt.1 - False
+26/7/2006 18:30:57			Checking object: Fath.Upload - False
+26/7/2006 18:30:57			Checking object: Shell.Application - True
+26/7/2006 18:31:02			Checking object: ADsSecurity - False
+26/7/2006 18:31:02			Verified GetShortName setting: True
+26/7/2006 18:31:02			Collected default language strings for english.dat
+26/7/2006 18:31:02			### Application started ###
+27/7/2006 01:30:00			### Starting application: FileMan 6.7b ###
+27/7/2006 01:30:00			Checking object: FathCrypt.CFathCrypt.1 - False
+27/7/2006 01:30:00			Checking object: Fath.Upload - False
+27/7/2006 01:30:00			Checking object: Shell.Application - True
+27/7/2006 01:30:06			Checking object: ADsSecurity - False
+27/7/2006 01:30:06			Verified GetShortName setting: True
+27/7/2006 01:30:06			Collected default language strings for english.dat
+27/7/2006 01:30:06			### Application started ###
+27/7/2006 02:09:13			### Starting application: FileMan 6.7b ###
+27/7/2006 02:09:13			Checking object: FathCrypt.CFathCrypt.1 - False
+27/7/2006 02:09:13			Checking object: Fath.Upload - False
+27/7/2006 02:09:13			Checking object: Shell.Application - True
+27/7/2006 02:09:18			Checking object: ADsSecurity - False
+27/7/2006 02:09:18			Verified GetShortName setting: True
+27/7/2006 02:09:18			Collected default language strings for english.dat
+27/7/2006 02:09:18			### Application started ###
+27/7/2006 02:30:21			### Starting application: FileMan 6.7b ###
+27/7/2006 02:30:21			Checking object: FathCrypt.CFathCrypt.1 - False
+27/7/2006 02:30:21			Checking object: Fath.Upload - False
+27/7/2006 02:30:21			Checking object: Shell.Application - True
+27/7/2006 02:30:26			Checking object: ADsSecurity - False
+27/7/2006 02:30:26			Verified GetShortName setting: True
+27/7/2006 02:30:26			Collected default language strings for english.dat
+27/7/2006 02:30:26			### Application started ###
+27/7/2006 09:50:26			### Starting application: FileMan 6.7b ###
+27/7/2006 09:50:26			Checking object: FathCrypt.CFathCrypt.1 - False
+27/7/2006 09:50:26			Checking object: Fath.Upload - False
+27/7/2006 09:50:26			Checking object: Shell.Application - True
+27/7/2006 09:50:32			Checking object: ADsSecurity - False
+27/7/2006 09:50:32			Verified GetShortName setting: True
+27/7/2006 09:50:32			Collected default language strings for english.dat
+27/7/2006 09:50:32			### Application started ###
+28/7/2006 01:43:08			### Starting application: FileMan 6.7b ###
+28/7/2006 01:43:08			Checking object: FathCrypt.CFathCrypt.1 - False
+28/7/2006 01:43:08			Checking object: Fath.Upload - False
+28/7/2006 01:43:08			Checking object: Shell.Application - True
+28/7/2006 01:43:14			Checking object: ADsSecurity - False
+28/7/2006 01:43:14			Verified GetShortName setting: True
+28/7/2006 01:43:14			Collected default language strings for english.dat
+2/8/2006 13:08:37			### Starting application: FileMan 6.7b ###
+2/8/2006 13:08:37			Checking object: FathCrypt.CFathCrypt.1 - False
+2/8/2006 13:08:37			Checking object: Fath.Upload - False
+2/8/2006 13:08:38			Checking object: Shell.Application - True
+2/8/2006 13:08:43			Checking object: ADsSecurity - False
+2/8/2006 13:08:43			Verified GetShortName setting: True
+2/8/2006 13:08:43			Collected default language strings for english.dat
+2/8/2006 13:08:43			### Application started ###

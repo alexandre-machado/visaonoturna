@@ -1,0 +1,14 @@
+body, td, pre { font-family: Tahoma, Arial, Helvetica; font-size: 8pt; color: #000000 }
+a:link, a:visited, a:active {font-family: Tahoma, Arial, Helvetica; font-size: 8pt; color: #000080 }
+a:hover { font-family: Tahoma, Arial, Helvetica; font-size: 8pt;color: #BB0000 }
+.NoUnderline { text-decoration:none}
+h3 { font-family: Tahoma, Arial, Helvetica; font-size: 13pt; font-weight: bold; margin-top:0px; margin-bottom:4px;}
+input.radio { background : #DDDDDD; color: #DDDDDD }
+.FormItem { font-family: Tahoma, Arial, Helvetica; font-size: 8pt; color: #000000 }
+.TextArea { font-family: Arial, Helvetica; font-size: 10pt; color: #000000 }
+.3dLook { border-right: #555555 thin inset; border-top: white thin outset; border-left: white thin outset; border-bottom: #555555 thin inset }
+.Button_sel { border-right: #555555 thin inset; border-top: white thin outset; border-left: white thin outset; border-bottom: #555555 thin inset }
+.Button_unsel {border-right: #dddddd thin solid; border-top: #dddddd thin solid; border-left: #dddddd thin solid;border-bottom: #dddddd thin solid }
+.skin0 {position:absolute;width:130px;border:1px solid black;background-color:#cccccc;line-height:18px;cursor:default;z-index:100;visibility:hidden;border-right: #555555 thin inset; border-top: white thin outset; border-left: white thin outset; border-bottom: #555555 thin inset}
+.menuitems {font-family:MS Sans serif, Arial, Helvetica;font-size:8px;padding-left:6px;padding-right:6px;}
+.tooltip {position: absolute; visibility:hidden;  font-size:8pt;  border: 1px solid black;  background-color: lightyellow; padding: 1px;}

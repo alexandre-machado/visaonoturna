@@ -1,0 +1,69 @@
+12-06-2006 1:41:07	admin	201.66.205.185	Logout
+12/6/2006 01:48:31	Diags: Logfile test
+12/6/2006 01:49:00		201.66.205.185	Checking trial. Accounts used: 2 of 3
+12/6/2006 01:49:00	admin	201.66.205.185	Read language file: Portuguese.dat
+12-06-2006 1:49:00	admin	201.66.205.185	Reset used bandwidth. 
+12-06-2006 1:49:00	admin	201.66.205.185	Successful Login , Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FDM; .NET CLR 2.0.50727) 
+12-06-2006 1:49:00	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:49:00	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:49:25	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:49:25	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:49:41	admin	201.66.205.185	Edit file D:\hshome\visaonot\visaonoturna.com\fileman\global.asa
+12-06-2006 1:50:06	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:50:06	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:51:12	admin	201.66.205.185	Logout
+12/6/2006 01:51:22			### Starting application: FileMan 6.7b ###
+12/6/2006 01:51:22			Checking object: FathCrypt.CFathCrypt.1 - False
+12/6/2006 01:51:22			Checking object: Fath.Upload - False
+12/6/2006 01:51:22			Checking object: Shell.Application - True
+12/6/2006 01:51:28			Checking object: ADsSecurity - False
+12/6/2006 01:51:28			Verified GetShortName setting: True
+12/6/2006 01:51:28			Enumerated file type icons
+12/6/2006 01:51:28			Enumerated languages
+12/6/2006 01:51:28			Collected default language strings for english.dat
+12/6/2006 01:51:28			### Application started ###
+12/6/2006 01:51:31		201.66.205.185	Checking trial. Accounts used: 2 of 3
+12/6/2006 01:51:31	admin	201.66.205.185	Read language file: Portuguese.dat
+12-06-2006 1:51:31	admin	201.66.205.185	Successful Login , Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FDM; .NET CLR 2.0.50727) 
+12-06-2006 1:51:31	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:51:32	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:51:45	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\
+12-06-2006 1:51:45	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\
+12-06-2006 1:52:07	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\Visaonoturna.com\Filemanx\
+12-06-2006 1:52:07	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\Visaonoturna.com\Filemanx\
+12-06-2006 1:52:16	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:52:16	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:52:24	admin	201.66.205.185	Delete file D:\hshome\visaonot\visaonoturna.com\filemanx\
+12-06-2006 1:52:24	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:52:24	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:52:28	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:52:28	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:52:42	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:52:42	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:52:52	admin	201.66.205.185	Edit file D:\hshome\visaonot\visaonoturna.com\fileman\global.asa
+12-06-2006 1:53:00	admin	201.66.205.185	Start listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 1:53:00	admin	201.66.205.185	End listing of D:\Hshome\Visaonot\Visaonoturna.com\
+12-06-2006 2:23:24	admin	201.66.205.185	Logout
+12-06-2006 2:23:24	admin	201.66.205.185	Cleanup files from D:\hshome\visaonot\visaonoturna.com\fileman\PubDownload\
+13/6/2006 16:19:03			### Starting application: FileMan 6.7b ###
+13/6/2006 16:19:03			Checking object: FathCrypt.CFathCrypt.1 - False
+13/6/2006 16:19:03			Checking object: Fath.Upload - False
+13/6/2006 16:19:03			Checking object: Shell.Application - True
+13/6/2006 16:19:08			Checking object: ADsSecurity - False
+13/6/2006 16:19:08			Verified GetShortName setting: False
+13/6/2006 16:19:09			Enumerated file type icons
+13/6/2006 16:19:09			Enumerated languages
+13/6/2006 16:19:09			Collected default language strings for english.dat
+13/6/2006 16:19:09			### Application started ###
+13/6/2006 16:19:09	Diags: Logfile test
+13/6/2006 16:23:23			### Starting application: FileMan 6.7b ###
+13/6/2006 16:23:23			Checking object: FathCrypt.CFathCrypt.1 - False
+13/6/2006 16:23:23			Checking object: Fath.Upload - False
+13/6/2006 16:23:23			Checking object: Shell.Application - True
+13/6/2006 16:23:28			Checking object: ADsSecurity - False
+13/6/2006 16:23:28			Verified GetShortName setting: False
+13/6/2006 16:23:29			Enumerated file type icons
+13/6/2006 16:23:29			Enumerated languages
+13/6/2006 16:23:29			Collected default language strings for english.dat
+13/6/2006 16:23:29			### Application started ###
+13/6/2006 16:23:29	Diags: Logfile test

@@ -1,0 +1,23 @@
+<SCRIPT LANGUAGE=VBScript RUNAT=server> 
+
+sub application_onStart() 
+'sentenças que se executam ao entrar o primeiro usuário 
+application("num_usuarios")=0 
+application("DataHoraI")=now()
+end sub 
+
+sub session_onStart() 
+'sentenças a executar ao sair o último usuário 
+application.lock 
+application("num_usuarios") = application("num_usuarios") + 1 
+application.unlock 
+end sub 
+
+sub session_onEnd() 
+'sentenças que se executam cada vez que entra um usuário 
+application.lock 
+application("num_usuarios") = application("num_usuarios") - 1 
+application.unlock 
+end sub 
+
+</SCRIPT>

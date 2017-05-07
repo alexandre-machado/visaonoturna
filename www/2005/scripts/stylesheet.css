@@ -1,0 +1,43 @@
+	  a.cool
+	  {
+	color:#000000;
+	text-decoration:none;
+	font-size: 8pt;
+	  }
+
+	  a:hover.cool
+	  {
+	  color:#000000;
+	  text-decoration:underline
+	  }
+.form {
+	width: 112px;
+	margin: 0px;
+	padding: 0px;
+}
+
+	  table.borderNoticias
+	  {
+	  border:solid darkred 1px;
+	  cursor:default;
+	  }
+
+	  td.title
+	  {
+	  padding:4px;
+	  padding-bottom:6px;
+	  background-color:#DDDDDD;
+	  font-weight:bold;
+	  }
+
+	  td.content
+	  {
+	  padding:2px;
+	  padding-bottom:12px;
+	  }
+
+	  td.labelNoticias
+	  {
+	  background-color:darkred;
+	  color:#FFFFFF;
+	  }

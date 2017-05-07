@@ -1,0 +1,8 @@
+30/9/2005 17:54:55			### Starting application: FileMan 6.5b ###
+30/9/2005 17:54:55			Checking object: FathCrypt.CFathCrypt.1 - Falso
+30/9/2005 17:54:55			Checking object: Fath.Upload - Falso
+30/9/2005 17:54:55			Checking object: Shell.Application - Verdadeiro
+30/9/2005 17:55:01			Checking object: ADsSecurity - Falso
+30/9/2005 17:55:01			Verified GetShortName setting: Falso
+30/9/2005 17:55:01			Collected default language strings for English.dat
+30/9/2005 17:55:01			### Application started ###
