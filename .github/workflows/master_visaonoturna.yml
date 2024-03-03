@@ -6,7 +6,7 @@ name: Build and deploy ASP app to Azure Web App - visaonoturna
 on:
   push:
     branches:
-      - master
+      - disabled
   workflow_dispatch:
 
 jobs:
